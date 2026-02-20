@@ -19,3 +19,17 @@
 # 插入链接
 
 [百度搜索](https://www.baidu.com "别点我")
+
+
+# 代码片段
+```c
+   #include<stdio.h>
+   int main(void)
+   {
+        printf("code\n");
+        return 0;
+   }
+
+```
+```python
+
